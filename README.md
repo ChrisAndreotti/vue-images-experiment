@@ -1,5 +1,7 @@
 # vue-images-experiment
 
+This is a Vue demo site that lets users upload images to their personal Imgur account.
+
 ## Project setup
 ```
 npm install
@@ -9,21 +11,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
